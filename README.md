@@ -15,16 +15,27 @@ Saya adalah seorang siswa SMK jurusan **Teknik Audio Video** yang berfokus pada 
 
 ---
 
+
+### 🌐 Socials:
+Kamu bisa hubungi saya lewat platform di bawah ini:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakifahmimuhammad@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/frygo0)
+
+---
+
+
 ### 💻 Tech Stack & Tools:
 
 *Badges* di bawah ini mencakup pemrograman, desain sirkuit, hingga *tools* audio-elektronika yang relevan:
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-157494?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/-Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=for-the-badge&logo=Blender&logoColor=white)
 
 ---
 
