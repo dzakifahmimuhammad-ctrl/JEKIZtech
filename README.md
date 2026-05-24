@@ -28,6 +28,7 @@ Kamu bisa hubungi saya lewat platform di bawah ini:
 ### 💻 Tech Stack & Tools:
 
 *Badges* di bawah ini mencakup pemrograman, desain sirkuit, hingga *tools* audio-elektronika yang relevan:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
